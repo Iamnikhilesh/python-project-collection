@@ -1,4 +1,4 @@
-# Python Mini Projects Collection
+# Python Projects Collection
 
 A collection of beginner-friendly Python projects developed to strengthen programming fundamentals and problem-solving skills.
 
