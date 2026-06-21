@@ -4,8 +4,7 @@ A collection of beginner-friendly Python projects developed to strengthen progra
 
 
 ## Repository Structure
-
-python-project-collection/
+Python Projects Collection
 │
 ├── Calculator
 │   └── Calculator.py
