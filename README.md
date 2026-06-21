@@ -2,6 +2,39 @@
 
 A collection of beginner-friendly Python projects developed to strengthen programming fundamentals and problem-solving skills.
 
+
+## Repository Structure
+
+python-project-collection/
+│
+├── Calculator
+│   └── Calculator.py
+│
+├── Contact_Manager
+│   └── Contact_Manager.py
+│
+├── Converter
+│   └── Converter.py
+│
+├── Dice_Roller
+│   └── dice_roller.py
+│
+├── Password_Generator
+│   └── Password_generator.py
+│
+├── Quiz_Game
+│   └── quiz_game.py
+│
+├── Rock_Paper_Scissors
+│   └── Rock_paper_scissors.py
+│
+├── To_Do_List
+│   └── To-Do List.py
+│
+├── README.md
+└── .gitignore
+
+
 ## Projects Included
 
 ### 1. Calculator
@@ -69,6 +102,16 @@ A simple task management application.
 - View task list
 
 ---
+## Skills Demonstrated
+
+- Python Programming
+- Object-Oriented Programming (OOP)
+- File Handling
+- User Input Validation
+- Random Module
+- Data Structures
+- Problem Solving
+- Command Line Applications
 
 ## Technologies Used
 
@@ -124,6 +167,6 @@ These projects were built to practice:
 
 ## Author
 
-Nikhilesh
+Nikhilesh Anamanla
 
-Aspiring Python Developer passionate about building practical software solutions and continuously improving programming skills.
+Python Developer focused on building practical applications using Python, SQL, and web technologies. Currently expanding expertise in backend development, databases, and software engineering through hands-on projects.
