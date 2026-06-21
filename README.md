@@ -2,36 +2,39 @@
 
 A collection of beginner-friendly Python projects developed to strengthen programming fundamentals and problem-solving skills.
 
-
 ## Repository Structure
-Python Projects Collection
+
+```text
+python-project-collection/
 │
-├── Calculator
+├── Calculator/
 │   └── Calculator.py
 │
-├── Contact_Manager
+├── Contact_Manager/
 │   └── Contact_Manager.py
 │
-├── Converter
+├── Converter/
 │   └── Converter.py
 │
-├── Dice_Roller
+├── Dice_Roller/
 │   └── dice_roller.py
 │
-├── Password_Generator
+├── Password_Generator/
 │   └── Password_generator.py
 │
-├── Quiz_Game
+├── Quiz_Game/
 │   └── quiz_game.py
 │
-├── Rock_Paper_Scissors
+├── Rock_Paper_Scissors/
 │   └── Rock_paper_scissors.py
 │
-├── To_Do_List
-│   └── To-Do List.py
+├── To_Do_List/
+│   └── To-Do_List.py
 │
 ├── README.md
+├── LICENSE
 └── .gitignore
+```
 
 
 ## Projects Included
